@@ -1,3 +1,7 @@
 # Design System
 
-This section will define the visual language, design tokens, typography, colour system, spacing system, interaction patterns, and accessibility standards.
+This section defines the visual language, design tokens, typography, colour system, spacing system, interaction patterns, accessibility standards, skins, templates, and progressive design upgrade path.
+
+## Documents
+
+- [Document 04 - Design System](04-design-system.md)
