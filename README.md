@@ -13,7 +13,7 @@ The documentation is organised under `docs/`:
 - `00-foundation` - documentation standards, repository structure, terminology, and ADR process
 - `01-product` - product vision, PRD, and product strategy
 - `02-architecture` - technical and system architecture
-- `03-design-system` - design language and design tokens
+- `03-design-system` - design language, skins, templates, and design tokens
 - `04-components` - component architecture and component library specifications
 - `05-theme-editor` - Shopify theme editor experience
 - `06-companion-app` - companion Shopify app architecture
@@ -33,3 +33,4 @@ This repository is in planning and documentation bootstrap stage.
 - [Document 01 - Vision & Product Strategy](docs/01-product/01-vision-and-product-strategy.md)
 - [Document 02 - Product Requirements Document](docs/01-product/02-product-requirements-document.md)
 - [Document 03 - Technical Architecture](docs/02-architecture/03-technical-architecture.md)
+- [Document 04 - Design System](docs/03-design-system/04-design-system.md)
