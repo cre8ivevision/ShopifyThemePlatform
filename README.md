@@ -34,3 +34,4 @@ This repository is in planning and documentation bootstrap stage.
 - [Document 02 - Product Requirements Document](docs/01-product/02-product-requirements-document.md)
 - [Document 03 - Technical Architecture](docs/02-architecture/03-technical-architecture.md)
 - [Document 04 - Design System](docs/03-design-system/04-design-system.md)
+- [Document 05 - Component Architecture](docs/04-components/05-component-architecture.md)
