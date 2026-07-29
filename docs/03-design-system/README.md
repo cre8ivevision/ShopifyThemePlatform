@@ -5,3 +5,4 @@ This section defines the visual language, design tokens, typography, colour syst
 ## Documents
 
 - [Document 04 - Design System](04-design-system.md)
+- [Document 09 - Design Tokens Specification](09-design-tokens-specification.md)
