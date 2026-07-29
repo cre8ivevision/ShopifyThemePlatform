@@ -28,7 +28,7 @@ The documentation is organised under `docs/`:
 
 This repository is in planning and documentation bootstrap stage.
 
-## Initial Documents
+## Core Documents
 
 - [Document 01 - Vision & Product Strategy](docs/01-product/01-vision-and-product-strategy.md)
 - [Document 02 - Product Requirements Document](docs/01-product/02-product-requirements-document.md)
@@ -38,3 +38,13 @@ This repository is in planning and documentation bootstrap stage.
 - [Document 06 - Theme Editor UX Specification](docs/05-theme-editor/06-theme-editor-ux-specification.md)
 - [Document 07 - Companion App Architecture](docs/06-companion-app/07-companion-app-architecture.md)
 - [Document 08 - Development Standards](docs/07-development/08-development-standards.md)
+- [Document 09 - Design Tokens Specification](docs/03-design-system/09-design-tokens-specification.md)
+- [Document 10 - Product Roadmap](docs/roadmap/10-product-roadmap.md)
+
+## Architecture Decision Records
+
+- [ADR 001 - Adopt Component-First Architecture](docs/adr/001-component-first-architecture.md)
+- [ADR 002 - Use Theme plus Companion App Architecture](docs/adr/002-theme-plus-companion-app.md)
+- [ADR 003 - Adopt Progressive Disclosure for Merchant UX](docs/adr/003-progressive-disclosure.md)
+- [ADR 004 - Use Minimal Base Design System with Skins and Templates](docs/adr/004-base-design-system-with-skins.md)
+- [ADR 005 - Prefer Variant-Based Layouts over Duplicate Sections](docs/adr/005-variant-based-layouts.md)
