@@ -36,3 +36,4 @@ This repository is in planning and documentation bootstrap stage.
 - [Document 04 - Design System](docs/03-design-system/04-design-system.md)
 - [Document 05 - Component Architecture](docs/04-components/05-component-architecture.md)
 - [Document 06 - Theme Editor UX Specification](docs/05-theme-editor/06-theme-editor-ux-specification.md)
+- [Document 07 - Companion App Architecture](docs/06-companion-app/07-companion-app-architecture.md)
