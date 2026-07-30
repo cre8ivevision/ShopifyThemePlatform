@@ -11,3 +11,4 @@ This section contains technical and system architecture documentation for the Sh
 - [Document 14 - Universal Block System](14-universal-block-system.md)
 - [Document 15 - Theme Settings Architecture](15-theme-settings-architecture.md)
 - [Document 16 - Feature Manager Architecture](16-feature-manager-architecture.md)
+- [Document 17 - Onboarding Engine](17-onboarding-engine.md)
