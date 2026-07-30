@@ -12,3 +12,6 @@ This section contains technical and system architecture documentation for the Sh
 - [Document 15 - Theme Settings Architecture](15-theme-settings-architecture.md)
 - [Document 16 - Feature Manager Architecture](16-feature-manager-architecture.md)
 - [Document 17 - Onboarding Engine](17-onboarding-engine.md)
+- [Document 18 - Performance Engine](18-performance-engine.md)
+- [Document 19 - Rendering Pipeline](19-rendering-pipeline.md)
+- [Document 20 - Asset Management System](20-asset-management-system.md)
