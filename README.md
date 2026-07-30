@@ -44,6 +44,7 @@ This repository is in planning and documentation bootstrap stage.
 - [Document 12 - Component Registry Specification](docs/02-architecture/12-component-registry-specification.md)
 - [Document 13 - Variant Engine Specification](docs/02-architecture/13-variant-engine-specification.md)
 - [Document 14 - Universal Block System](docs/02-architecture/14-universal-block-system.md)
+- [Document 15 - Theme Settings Architecture](docs/02-architecture/15-theme-settings-architecture.md)
 
 ## Architecture Decision Records
 
