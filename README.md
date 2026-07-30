@@ -64,6 +64,14 @@ This repository is in planning and documentation bootstrap stage.
 - [Document 29 - Forms and Interactive Components](docs/04-components/29-forms-and-interactive-components.md)
 - [Document 30 - Utility Components](docs/04-components/30-utility-components.md)
 
+## Development Documents
+
+- [Document 31 - Folder Structure](docs/07-development/31-folder-structure.md)
+- [Document 32 - Coding Standards](docs/07-development/32-coding-standards.md)
+- [Document 33 - Liquid Standards](docs/07-development/33-liquid-standards.md)
+- [Document 34 - JavaScript Standards](docs/07-development/34-javascript-standards.md)
+- [Document 35 - CSS Architecture](docs/07-development/35-css-architecture.md)
+
 ## Architecture Decision Records
 
 - [ADR 001 - Adopt Component-First Architecture](docs/adr/001-component-first-architecture.md)
