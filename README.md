@@ -40,6 +40,7 @@ This repository is in planning and documentation bootstrap stage.
 - [Document 08 - Development Standards](docs/07-development/08-development-standards.md)
 - [Document 09 - Design Tokens Specification](docs/03-design-system/09-design-tokens-specification.md)
 - [Document 10 - Product Roadmap](docs/roadmap/10-product-roadmap.md)
+- [Document 11 - Layout Engine Specification](docs/02-architecture/11-layout-engine-specification.md)
 
 ## Architecture Decision Records
 
