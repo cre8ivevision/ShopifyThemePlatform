@@ -142,6 +142,19 @@ This repository is in planning and documentation bootstrap stage.
 - [Document 89 - Bug Classification](docs/08-testing/89-bug-classification.md)
 - [Document 90 - QA Workflow](docs/08-testing/90-qa-workflow.md)
 
+## Future Platform Documents
+
+- [Document 91 - Plugin Architecture](docs/roadmap/91-plugin-architecture.md)
+- [Document 92 - Marketplace SDK](docs/roadmap/92-marketplace-sdk.md)
+- [Document 93 - Extension System](docs/roadmap/93-extension-system.md)
+- [Document 94 - Cloud Services](docs/roadmap/94-cloud-services.md)
+- [Document 95 - Visual Builder](docs/roadmap/95-visual-builder.md)
+- [Document 96 - AI Builder](docs/roadmap/96-ai-builder.md)
+- [Document 97 - Enterprise Features](docs/roadmap/97-enterprise-features.md)
+- [Document 98 - Multi-Tenant Architecture](docs/roadmap/98-multi-tenant-architecture.md)
+- [Document 99 - Framework Evolution](docs/roadmap/99-framework-evolution.md)
+- [Document 100 - Master Architecture Index](docs/roadmap/100-master-architecture-index.md)
+
 ## Architecture Decision Records
 
 - [ADR 001 - Adopt Component-First Architecture](docs/adr/001-component-first-architecture.md)
