@@ -46,6 +46,7 @@ This repository is in planning and documentation bootstrap stage.
 - [Document 14 - Universal Block System](docs/02-architecture/14-universal-block-system.md)
 - [Document 15 - Theme Settings Architecture](docs/02-architecture/15-theme-settings-architecture.md)
 - [Document 16 - Feature Manager Architecture](docs/02-architecture/16-feature-manager-architecture.md)
+- [Document 17 - Onboarding Engine](docs/02-architecture/17-onboarding-engine.md)
 
 ## Architecture Decision Records
 
