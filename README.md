@@ -45,6 +45,7 @@ This repository is in planning and documentation bootstrap stage.
 - [Document 13 - Variant Engine Specification](docs/02-architecture/13-variant-engine-specification.md)
 - [Document 14 - Universal Block System](docs/02-architecture/14-universal-block-system.md)
 - [Document 15 - Theme Settings Architecture](docs/02-architecture/15-theme-settings-architecture.md)
+- [Document 16 - Feature Manager Architecture](docs/02-architecture/16-feature-manager-architecture.md)
 
 ## Architecture Decision Records
 
