@@ -9,3 +9,8 @@ This section defines AI-assisted development rules, context files, coding assist
 - [Document 63 - AI Context Files](63-ai-context-files.md)
 - [Document 64 - Cursor Rules](64-cursor-rules.md)
 - [Document 65 - Claude Code Rules](65-claude-code-rules.md)
+- [Document 66 - Prompt Library](66-prompt-library.md)
+- [Document 67 - Project Memory Structure](67-project-memory-structure.md)
+- [Document 68 - Component Generation Rules](68-component-generation-rules.md)
+- [Document 69 - Documentation Standards](69-documentation-standards.md)
+- [Document 70 - AI Workflow](70-ai-workflow.md)
