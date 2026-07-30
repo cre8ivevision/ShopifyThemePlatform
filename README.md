@@ -90,6 +90,19 @@ This repository is in planning and documentation bootstrap stage.
 - [Document 49 - Design Patterns](docs/03-design-system/49-design-patterns.md)
 - [Document 50 - UI Guidelines](docs/03-design-system/50-ui-guidelines.md)
 
+## Companion App Documents
+
+- [Document 51 - App PRD](docs/06-companion-app/51-app-prd.md)
+- [Document 52 - App Architecture](docs/06-companion-app/52-app-architecture.md)
+- [Document 53 - App Database](docs/06-companion-app/53-app-database.md)
+- [Document 54 - Feature Activation System](docs/06-companion-app/54-feature-activation-system.md)
+- [Document 55 - Licensing](docs/06-companion-app/55-licensing.md)
+- [Document 56 - Analytics Engine](docs/06-companion-app/56-analytics-engine.md)
+- [Document 57 - AI Recommendation Engine](docs/06-companion-app/57-ai-recommendation-engine.md)
+- [Document 58 - Cloud Synchronisation](docs/06-companion-app/58-cloud-synchronisation.md)
+- [Document 59 - Merchant Dashboard](docs/06-companion-app/59-merchant-dashboard.md)
+- [Document 60 - App API](docs/06-companion-app/60-app-api.md)
+
 ## Architecture Decision Records
 
 - [ADR 001 - Adopt Component-First Architecture](docs/adr/001-component-first-architecture.md)
