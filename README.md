@@ -42,6 +42,7 @@ This repository is in planning and documentation bootstrap stage.
 - [Document 10 - Product Roadmap](docs/roadmap/10-product-roadmap.md)
 - [Document 11 - Layout Engine Specification](docs/02-architecture/11-layout-engine-specification.md)
 - [Document 12 - Component Registry Specification](docs/02-architecture/12-component-registry-specification.md)
+- [Document 13 - Variant Engine Specification](docs/02-architecture/13-variant-engine-specification.md)
 
 ## Architecture Decision Records
 
