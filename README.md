@@ -51,6 +51,19 @@ This repository is in planning and documentation bootstrap stage.
 - [Document 19 - Rendering Pipeline](docs/02-architecture/19-rendering-pipeline.md)
 - [Document 20 - Asset Management System](docs/02-architecture/20-asset-management-system.md)
 
+## Component Library Documents
+
+- [Document 21 - Hero Components](docs/04-components/21-hero-components.md)
+- [Document 22 - Header Components](docs/04-components/22-header-components.md)
+- [Document 23 - Footer Components](docs/04-components/23-footer-components.md)
+- [Document 24 - Product Components](docs/04-components/24-product-components.md)
+- [Document 25 - Collection Components](docs/04-components/25-collection-components.md)
+- [Document 26 - Marketing Components](docs/04-components/26-marketing-components.md)
+- [Document 27 - Navigation Components](docs/04-components/27-navigation-components.md)
+- [Document 28 - Commerce Components](docs/04-components/28-commerce-components.md)
+- [Document 29 - Forms and Interactive Components](docs/04-components/29-forms-and-interactive-components.md)
+- [Document 30 - Utility Components](docs/04-components/30-utility-components.md)
+
 ## Architecture Decision Records
 
 - [ADR 001 - Adopt Component-First Architecture](docs/adr/001-component-first-architecture.md)
