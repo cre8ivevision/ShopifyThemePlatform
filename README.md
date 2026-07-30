@@ -71,6 +71,11 @@ This repository is in planning and documentation bootstrap stage.
 - [Document 33 - Liquid Standards](docs/07-development/33-liquid-standards.md)
 - [Document 34 - JavaScript Standards](docs/07-development/34-javascript-standards.md)
 - [Document 35 - CSS Architecture](docs/07-development/35-css-architecture.md)
+- [Document 36 - API Reference](docs/07-development/36-api-reference.md)
+- [Document 37 - Component API](docs/07-development/37-component-api.md)
+- [Document 38 - Event System](docs/07-development/38-event-system.md)
+- [Document 39 - Hooks and Extension Points](docs/07-development/39-hooks-and-extension-points.md)
+- [Document 40 - Testing Guidelines](docs/07-development/40-testing-guidelines.md)
 
 ## Architecture Decision Records
 
