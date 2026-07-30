@@ -103,6 +103,14 @@ This repository is in planning and documentation bootstrap stage.
 - [Document 59 - Merchant Dashboard](docs/06-companion-app/59-merchant-dashboard.md)
 - [Document 60 - App API](docs/06-companion-app/60-app-api.md)
 
+## AI Development Documents
+
+- [Document 61 - AI Development Guide](docs/10-ai/61-ai-development-guide.md)
+- [Document 62 - AI Coding Rules](docs/10-ai/62-ai-coding-rules.md)
+- [Document 63 - AI Context Files](docs/10-ai/63-ai-context-files.md)
+- [Document 64 - Cursor Rules](docs/10-ai/64-cursor-rules.md)
+- [Document 65 - Claude Code Rules](docs/10-ai/65-claude-code-rules.md)
+
 ## Architecture Decision Records
 
 - [ADR 001 - Adopt Component-First Architecture](docs/adr/001-component-first-architecture.md)
