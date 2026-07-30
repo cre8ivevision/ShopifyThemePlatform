@@ -43,6 +43,7 @@ This repository is in planning and documentation bootstrap stage.
 - [Document 11 - Layout Engine Specification](docs/02-architecture/11-layout-engine-specification.md)
 - [Document 12 - Component Registry Specification](docs/02-architecture/12-component-registry-specification.md)
 - [Document 13 - Variant Engine Specification](docs/02-architecture/13-variant-engine-specification.md)
+- [Document 14 - Universal Block System](docs/02-architecture/14-universal-block-system.md)
 
 ## Architecture Decision Records
 
