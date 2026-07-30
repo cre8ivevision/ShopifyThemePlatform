@@ -129,6 +129,19 @@ This repository is in planning and documentation bootstrap stage.
 - [Document 79 - Product Lifecycle](docs/09-business/79-product-lifecycle.md)
 - [Document 80 - Release Management](docs/09-business/80-release-management.md)
 
+## Quality Assurance Documents
+
+- [Document 81 - QA Standards](docs/08-testing/81-qa-standards.md)
+- [Document 82 - Testing Strategy](docs/08-testing/82-testing-strategy.md)
+- [Document 83 - Browser Compatibility](docs/08-testing/83-browser-compatibility.md)
+- [Document 84 - Performance Benchmarks](docs/08-testing/84-performance-benchmarks.md)
+- [Document 85 - Accessibility Testing](docs/08-testing/85-accessibility-testing.md)
+- [Document 86 - Security Checklist](docs/08-testing/86-security-checklist.md)
+- [Document 87 - Release Checklist](docs/08-testing/87-release-checklist.md)
+- [Document 88 - Regression Testing](docs/08-testing/88-regression-testing.md)
+- [Document 89 - Bug Classification](docs/08-testing/89-bug-classification.md)
+- [Document 90 - QA Workflow](docs/08-testing/90-qa-workflow.md)
+
 ## Architecture Decision Records
 
 - [ADR 001 - Adopt Component-First Architecture](docs/adr/001-component-first-architecture.md)
