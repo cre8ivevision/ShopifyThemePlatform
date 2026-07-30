@@ -110,6 +110,24 @@ This repository is in planning and documentation bootstrap stage.
 - [Document 63 - AI Context Files](docs/10-ai/63-ai-context-files.md)
 - [Document 64 - Cursor Rules](docs/10-ai/64-cursor-rules.md)
 - [Document 65 - Claude Code Rules](docs/10-ai/65-claude-code-rules.md)
+- [Document 66 - Prompt Library](docs/10-ai/66-prompt-library.md)
+- [Document 67 - Project Memory Structure](docs/10-ai/67-project-memory-structure.md)
+- [Document 68 - Component Generation Rules](docs/10-ai/68-component-generation-rules.md)
+- [Document 69 - Documentation Standards](docs/10-ai/69-documentation-standards.md)
+- [Document 70 - AI Workflow](docs/10-ai/70-ai-workflow.md)
+
+## Business Documents
+
+- [Document 71 - Business Model](docs/09-business/71-business-model.md)
+- [Document 72 - Licensing Strategy](docs/09-business/72-licensing-strategy.md)
+- [Document 73 - Pricing Strategy](docs/09-business/73-pricing-strategy.md)
+- [Document 74 - Marketplace Strategy](docs/09-business/74-marketplace-strategy.md)
+- [Document 75 - Brand Guidelines](docs/09-business/75-brand-guidelines.md)
+- [Document 76 - Marketing Strategy](docs/09-business/76-marketing-strategy.md)
+- [Document 77 - Customer Success](docs/09-business/77-customer-success.md)
+- [Document 78 - Support Strategy](docs/09-business/78-support-strategy.md)
+- [Document 79 - Product Lifecycle](docs/09-business/79-product-lifecycle.md)
+- [Document 80 - Release Management](docs/09-business/80-release-management.md)
 
 ## Architecture Decision Records
 
